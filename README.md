@@ -233,7 +233,7 @@
 
 - [1190. 反转每对括号间的子串](https://leetcode-cn.com/problems/reverse-substrings-between-each-pair-of-parentheses/)
 - [394. 字符串解码](https://leetcode-cn.com/problems/decode-string/)
-- [456. 132 模式](https://leetcode-cn.com/problems/132-pattern/)
+- [456. 132 模式](https://leetcode-cn.com/problems/132-pattern/) https://link.medium.com/qyg42kjqG5 https://link.medium.com/1Bo0jcJuw5
 - [227. 基本计算器 II](https://leetcode-cn.com/problems/basic-calculator-ii/)
 - [150. 逆波兰表达式求值](https://leetcode-cn.com/problems/evaluate-reverse-polish-notation/)
 - [503. 下一个更大元素 II](https://leetcode-cn.com/problems/next-greater-element-ii/)
