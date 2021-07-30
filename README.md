@@ -239,7 +239,7 @@
 - [503. 下一个更大元素 II](https://leetcode-cn.com/problems/next-greater-element-ii/)
 - [71. 简化路径](https://leetcode-cn.com/problems/simplify-path/)
 - [856. 括号的分数](https://leetcode-cn.com/problems/score-of-parentheses/)
-- [907. 子数组的最小值之和](https://leetcode-cn.com/problems/sum-of-subarray-minimums/)
+- [907. 子数组的最小值之和](https://leetcode-cn.com/problems/sum-of-subarray-minimums/) https://leetcode.com/problems/sum-of-subarray-minimums/discuss/178876/stack-solution-with-very-detailed-explanation-step-by-step
 - [385. 迷你语法分析器](https://leetcode-cn.com/problems/mini-parser/)
 - [1249. 移除无效的括号](https://leetcode-cn.com/problems/minimum-remove-to-make-valid-parentheses/)
 - [636. 函数的独占时间](https://leetcode-cn.com/problems/exclusive-time-of-functions/)
