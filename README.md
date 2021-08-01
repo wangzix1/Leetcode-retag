@@ -236,7 +236,7 @@
 - [456. 132 模式](https://leetcode-cn.com/problems/132-pattern/) https://link.medium.com/qyg42kjqG5 https://link.medium.com/1Bo0jcJuw5
 - [227. 基本计算器 II](https://leetcode-cn.com/problems/basic-calculator-ii/)
 - [150. 逆波兰表达式求值](https://leetcode-cn.com/problems/evaluate-reverse-polish-notation/)
-- [503. 下一个更大元素 II](https://leetcode-cn.com/problems/next-greater-element-ii/)
+- [503. 下一个更大元素 II](https://leetcode-cn.com/problems/next-greater-element-ii/) https://www.cnblogs.com/grandyang/p/8873471.html
 - [71. 简化路径](https://leetcode-cn.com/problems/simplify-path/)
 - [856. 括号的分数](https://leetcode-cn.com/problems/score-of-parentheses/)
 - [907. 子数组的最小值之和](https://leetcode-cn.com/problems/sum-of-subarray-minimums/) https://leetcode.com/problems/sum-of-subarray-minimums/discuss/178876/stack-solution-with-very-detailed-explanation-step-by-step
