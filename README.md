@@ -440,6 +440,8 @@
 - [354. 俄罗斯套娃信封问题](https://leetcode-cn.com/problems/russian-doll-envelopes/)
 - [123. 买卖股票的最佳时机 III](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-iii/)
 
+https://zxi.mytechroad.com/blog/tag/knapsack/
+
 ### 二维
 
 ###### 中等
